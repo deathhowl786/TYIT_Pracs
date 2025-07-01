@@ -1,0 +1,17 @@
+1 Enter Details of Employee:
+Enter Empoyee No. : 12
+Enter Name : srajan
+Enter Department : IT
+Enter Salary : 1414631
+
+2 Enter Details of Employee:
+Enter Empoyee No. : 14
+Enter Name : Chrislo
+Enter Department : IT
+Enter Salary : 50
+
+Hi My Name is srajan, My Eno is 12,I work in IT with highest salary of 1414631.
+
+C:\TYIT_014\C#\Practicla2\bin\Debug\net8.0\Practical2.exe (process 15456) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
