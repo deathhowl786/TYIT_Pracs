@@ -1,0 +1,22 @@
+1 Enter Details of Student:
+Enter UID : 2305014
+Enter Name : Srajan
+Enter Age : 19
+Enter Course : IT
+Enter Marks : 94
+
+2 Enter Details of Student:
+Enter UID : 2305072
+Enter Name : Chrislo
+Enter Age : 19
+Enter Course : IT
+Enter Marks : 95
+
+Enter UID to Search =
+2305014
+
+Hi My Name is Srajan, My UID is 2305014, I am 19 years old, I study IT in SXC and I scored 94 in it.
+
+C:\TYIT_014\C#\Practicla2\bin\Debug\net8.0\Practicla2.exe (process 15856) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
