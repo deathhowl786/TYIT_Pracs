@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+	<Product>
+		<pid>1</pid>
+		<pname>Dell Inspiron 15</pname>
+		<price>80000</price>
+		<dom>2024-07-01</dom>
+		<category>Laptop</category>
+		<brand>Dell</brand>
+		<warranty>2 Years</warranty>
+		<availability>In Stock</availability>
+		<rating>4.5</rating>
+		<description>15.6" FHD, Intel i7, 16GB RAM, 512GB SSD</description>
+	</Product>
+	<Product>
+		<pid>2</pid>
+		<pname>HP Pavilion 14</pname>
+		<price>55000</price>
+		<dom>2024-06-25</dom>
+		<category>Laptop</category>
+		<brand>HP</brand>
+		<warranty>1 Year</warranty>
+		<availability>In Stock</availability>
+		<rating>4.3</rating>
+		<description>14" HD, AMD Ryzen 5, 8GB RAM, 256GB SSD</description>
+	</Product>
+	<Product>
+		<pid>3</pid>
+		<pname>Lenovo IdeaPad 3</pname>
+		<price>48000</price>
+		<dom>2024-06-15</dom>
+		<category>Laptop</category>
+		<brand>Lenovo</brand>
+		<warranty>1 Year</warranty>
+		<availability>Out of Stock</availability>
+		<rating>4.1</rating>
+		<description>15.6" HD, Intel i5, 8GB RAM, 512GB SSD</description>
+	</Product>
+	<Product>
+		<pid>4</pid>
+		<pname>Asus VivoBook 14</pname>
+		<price>62000</price>
+		<dom>2024-07-02</dom>
+		<category>Laptop</category>
+		<brand>Asus</brand>
+		<warranty>2 Years</warranty>
+		<availability>In Stock</availability>
+		<rating>4.4</rating>
+		<description>14" FHD, AMD Ryzen 7, 16GB RAM, 1TB SSD</description>
+	</Product>
+	<Product>
+		<pid>5</pid>
+		<pname>Apple MacBook Air M1</pname>
+		<price>92000</price>
+		<dom>2024-05-20</dom>
+		<category>Laptop</category>
+		<brand>Apple</brand>
+		<warranty>1 Year</warranty>
+		<availability>In Stock</availability>
+		<rating>4.8</rating>
+		<description>13" Retina, M1 Chip, 8GB RAM, 256GB SSD</description>
+	</Product>
+	<Product>
+		<pid>6</pid>
+		<pname>Acer Aspire 5</pname>
+		<price>51000</price>
+		<dom>2024-06-18</dom>
+		<category>Laptop</category>
+		<brand>Acer</brand>
+		<warranty>1 Year</warranty>
+		<availability>Limited Stock</availability>
+		<rating>4.2</rating>
+		<description>15.6" FHD, Intel i5, 8GB RAM, 512GB SSD</description>
+	</Product>
+	<Product>
+		<pid>7</pid>
+		<pname>Samsung Galaxy Tab S8</pname>
+		<price>68000</price>
+		<dom>2024-07-05</dom>
+		<category>Tablet</category>
+		<brand>Samsung</brand>
+		<warranty>1 Year</warranty>
+		<availability>In Stock</availability>
+		<rating>4.7</rating>
+		<description>11" WQXGA, Snapdragon 8 Gen 1, 8GB RAM</description>
+	</Product>
+	<Product>
+		<pid>8</pid>
+		<pname>Microsoft Surface Pro 9</pname>
+		<price>110000</price>
+		<dom>2024-07-03</dom>
+		<category>Tablet</category>
+		<brand>Microsoft</brand>
+		<warranty>2 Years</warranty>
+		<availability>In Stock</availability>
+		<rating>4.6</rating>
+		<description>13" PixelSense, Intel i5, 8GB RAM, 256GB SSD</description>
+	</Product>
+	<Product>
+		<pid>9</pid>
+		<pname>Lenovo Tab M10</pname>
+		<price>22000</price>
+		<dom>2024-06-30</dom>
+		<category>Tablet</category>
+		<brand>Lenovo</brand>
+		<warranty>1 Year</warranty>
+		<availability>In Stock</availability>
+		<rating>4.0</rating>
+		<description>10.1" HD, Snapdragon 680, 4GB RAM, 64GB Storage</description>
+	</Product>
+	<Product>
+		<pid>10</pid>
+		<pname>HP Envy x360</pname>
+		<price>88000</price>
+		<dom>2024-06-10</dom>
+		<category>Convertible Laptop</category>
+		<brand>HP</brand>
+		<warranty>2 Years</warranty>
+		<availability>In Stock</availability>
+		<rating>4.5</rating>
+		<description>13.3" FHD Touch, Ryzen 7, 16GB RAM, 512GB SSD</description>
+	</Product>
+	<Product>
+		<pid>11</pid>
+		<pname>Dell XPS 13</pname>
+		<price>125000</price>
+		<dom>2024-06-05</dom>
+		<category>Laptop</category>
+		<brand>Dell</brand>
+		<warranty>2 Years</warranty>
+		<availability>Preorder</availability>
+		<rating>4.9</rating>
+		<description>13.4" UHD+, Intel i7, 16GB RAM, 1TB SSD</description>
+	</Product>
+	<Product>
+		<pid>12</pid>
+		<pname>Apple iPad Air 5</pname>
+		<price>62000</price>
+		<dom>2024-05-15</dom>
+		<category>Tablet</category>
+		<brand>Apple</brand>
+		<warranty>1 Year</warranty>
+		<availability>In Stock</availability>
+		<rating>4.6</rating>
+		<description>10.9" Liquid Retina, M1 Chip, 64GB Storage</description>
+	</Product>
+	<Product>
+		<pid>13</pid>
+		<pname>Realme Pad X</pname>
+		<price>19000</price>
+		<dom>2024-06-22</dom>
+		<category>Tablet</category>
+		<brand>Realme</brand>
+		<warranty>1 Year</warranty>
+		<availability>Limited Stock</availability>
+		<rating>4.1</rating>
+		<description>10.95" WUXGA+, Snapdragon 695, 6GB RAM</description>
+	</Product>
+	<Product>
+		<pid>14</pid>
+		<pname>Acer Swift Go</pname>
+		<price>76000</price>
+		<dom>2024-06-28</dom>
+		<category>Laptop</category>
+		<brand>Acer</brand>
+		<warranty>1 Year</warranty>
+		<availability>In Stock</availability>
+		<rating>4.3</rating>
+		<description>14" OLED, Intel i5, 16GB RAM, 512GB SSD</description>
+	</Product>
+	<Product>
+		<pid>15</pid>
+		<pname>MSI Modern 14</pname>
+		<price>54000</price>
+		<dom>2024-07-01</dom>
+		<category>Laptop</category>
+		<brand>MSI</brand>
+		<warranty>2 Years</warranty>
+		<availability>In Stock</availability>
+		<rating>4.2</rating>
+		<description>14" FHD, Intel i5, 8GB RAM, 512GB SSD</description>
+	</Product>
+	<Product>
+		<pid>16</pid>
+		<pname>Samsung Galaxy Book 3</pname>
+		<price>97000</price>
+		<dom>2024-06-12</dom>
+		<category>Laptop</category>
+		<brand>Samsung</brand>
+		<warranty>2 Years</warranty>
+		<availability>In Stock</availability>
+		<rating>4.6</rating>
+		<description>15.6" AMOLED, Intel i7, 16GB RAM, 1TB SSD</description>
+	</Product>
+	<Product>
+		<pid>17</pid>
+		<pname>Asus ROG Flow Z13</pname>
+		<price>145000</price>
+		<dom>2024-07-04</dom>
+		<category>Gaming Tablet</category>
+		<brand>Asus</brand>
+		<warranty>2 Years</warranty>
+		<availability>Limited Stock</availability>
+		<rating>4.8</rating>
+		<description>13.4" FHD+ Touch, Intel i9, RTX 4050, 16GB RAM</description>
+	</Product>
+	<Product>
+		<pid>18</pid>
+		<pname>HP Elite Dragonfly G3</pname>
+		<price>132000</price>
+		<dom>2024-06-20</dom>
+		<category>Business Laptop</category>
+		<brand>HP</brand>
+		<warranty>3 Years</warranty>
+		<availability>In Stock</availability>
+		<rating>4.7</rating>
+		<description>13.5" WUXGA+, Intel i7, 16GB RAM, 512GB SSD</description>
+	</Product>
+	<Product>
+		<pid>19</pid>
+		<pname>Apple MacBook Pro M2</pname>
+		<price>155000</price>
+		<dom>2024-05-30</dom>
+		<category>Laptop</category>
+		<brand>Apple</brand>
+		<warranty>1 Year</warranty>
+		<availability>Preorder</availability>
+		<rating>4.9</rating>
+		<description>14" Liquid Retina XDR, M2 Pro, 16GB RAM, 512GB SSD</description>
+	</Product>
+	<Product>
+		<pid>20</pid>
+		<pname>Lenovo Yoga 9i</pname>
+		<price>115000</price>
+		<dom>2024-06-07</dom>
+		<category>Convertible Laptop</category>
+		<brand>Lenovo</brand>
+		<warranty>2 Years</warranty>
+		<availability>In Stock</availability>
+		<rating>4.6</rating>
+		<description>14" 4K Touch, Intel i7, 16GB RAM, 1TB SSD</description>
+	</Product>
+</Products>
+
