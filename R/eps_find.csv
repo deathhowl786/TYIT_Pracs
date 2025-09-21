@@ -1,0 +1,21 @@
+library(dbscan)
+library(inflection)
+
+data = read.csv('X_Y.csv')
+data = data[, -1]
+
+# Assume data is your numeric data frame or matrix
+k <- 5
+distances <- sort(kNNdist(data, k = k))
+
+# Correct usage of findiplist()
+result <- inflection::findiplist(x = 1:length(distances), y = distances, index = 1)
+
+# Get the chi (inflection index) from ESE
+inflection_index <- result["ESE", "chi"]
+
+# Use that index to get the eps value from the sorted distances
+eps <- distances[inflection_index]
+
+cat("Suggested eps:", eps, "\n")
+
