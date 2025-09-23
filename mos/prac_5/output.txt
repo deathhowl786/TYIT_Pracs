@@ -1,0 +1,52 @@
+1. Number of words (excluding numbers and punctuation):
+478
+
+2. All numbers in ascending order:
+1
+1
+1
+2
+3
+4
+5
+5
+5
+5
+7
+8
+8
+8
+8
+8
+8
+8
+13
+16
+25
+65
+340
+2001
+2003
+2024
+2025
+8859
+8859
+
+3. Top 5 most repeated words:
+     26 the
+     14 of
+     14 is
+     12 and
+     12 a
+
+4. Single-digit numbers (no repetition):
+1
+2
+3
+4
+5
+7
+8
+
+5. Saving unique numbers to nums_uniq.txt and unique words to words_uniq.txt...
+The End
